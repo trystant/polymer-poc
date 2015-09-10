@@ -1,3 +1,11 @@
+# Polymer Proof of Concept
+
+As [Respond](http://respondcms.com) uses Polymers for its app and this is a future
+direction that web development is heading in, I decided to open up a proof of concept
+repository to display what I know of this technology and what I don't.
+
+So this repository is here as a playground.
+
 ![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png)
 ## Polymer Starter Kit
 
